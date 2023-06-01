@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+::-webkit-scrollbar {
+  width: .6rem;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: .8rem;
+  background-color: #16a34a;
+}
