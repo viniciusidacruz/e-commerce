@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "thumbnail": "/assets/images/abacaxi-imperial.jpeg",
+            "title": "Abacaxi Imperial",
+            "price": 2,
+            "soldBy": "un"
+        },
+        {
+            "id": "2",
+            "thumbnail": "/assets/images/abacaxi-perola.webp",
+            "title": "Abacaxi Pérola",
+            "price": 1.80,
+            "soldBy": "un"
+        },
+        {
+            "id": "3",
+            "thumbnail": "/assets/images/banana-maca.jpeg",
+            "title": "Banana Maçã",
+            "price": 10.99,
+            "soldBy": "kg"
+        },
+        {
+            "id": "4",
+            "thumbnail": "/assets/images/banana-nanica.jpeg",
+            "title": "Banana Nanica",
+            "price": 3.5,
+            "soldBy": "kg"
+        },
+        {
+            "id": "5",
+            "thumbnail": "/assets/images/banana-terra.jpeg",
+            "title": "Banana da Terra",
+            "price": 6.99,
+            "soldBy": "kg"
+        },
+        {
+            "id": "6",
+            "thumbnail": "/assets/images/maca-fuji.jpeg",
+            "title": "Maçã Fuji",
+            "price": 3.49,
+            "soldBy": "un"
+        },
+        {
+            "id": "7",
+            "thumbnail": "/assets/images/maca-gala.png",
+            "title": "Maçã Gala",
+            "price": 5.56,
+            "soldBy": "un"
+        },
+        {
+            "id": "8",
+            "thumbnail": "/assets/images/maca-verde.jpeg",
+            "title": "Maçã Verde",
+            "price": 2.8,
+            "soldBy": "un"
+        },
+        {
+            "id": "9",
+            "thumbnail": "/assets/images/morango.jpeg",
+            "title": "Morango 250g",
+            "price": 9.99,
+            "soldBy": "un"
+        },
+        {
+            "id": "10",
+            "thumbnail": "/assets/images/uva-verde.jpeg",
+            "title": "Uva verde 500g",
+            "price": 7.19,
+            "soldBy": "un"
+        }
+    ]
+}
