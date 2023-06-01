@@ -1,7 +1,9 @@
+import { CartComponent } from "./components";
+
 export default function Home() {
   return (
     <main>
-      <h1>Hello World</h1>
+      <CartComponent />
     </main>
   )
 }
